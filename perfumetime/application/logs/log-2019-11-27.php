@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-27 08:37:55 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:38:55 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:40:57 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:41:11 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:41:48 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:44:12 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:44:16 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:44:47 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-11-27 08:51:22 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0

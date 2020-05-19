@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-22 23:12:52 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so' - dlopen(/Applications/AMPPS/php-5.6/lib/extensions/ext/gd2.so, 9): image not found Unknown 0
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:04 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 72
+ERROR - 2019-12-22 23:13:09 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 78
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 97
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 20
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 30
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 33
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 34
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 38
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 97
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 20
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 30
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 33
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 34
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 38
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 96
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/controllers/Berita.php 97
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 20
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 30
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 33
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 34
+ERROR - 2019-12-22 23:13:11 --> Severity: Notice --> Trying to get property of non-object /Applications/AMPPS/www/comprobakamla/application/views/pages/berita/detail.php 38
